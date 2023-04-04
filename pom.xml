@@ -8,7 +8,7 @@
 
     <name>spring-batch-mcve</name>
     <!-- TODO add issue number so we can refer to it when working on it -->
-    <description>Minimal example to reproduce issue GH-XXX</description>
+    <description>Minimal example to reproduce issue GH-4246</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
